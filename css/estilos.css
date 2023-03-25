@@ -36,7 +36,8 @@ img {
 }
 
 body {
-    background-image: url("https://img.freepik.com/free-vector/blank-rectangle-frame-design_53876-115200.jpg");
+    background-image: url("https://img.freepik.com/free-vector/pink-smudge-watercolor-background-design_53876-100654.jpg?t=st=1679786022~exp=1679786622~hmac=ba679da5a902d3a5ccce36db0a11345972388a936b465aa81849c687efa456a0");
+    background-size: contain;
     border: solid 2px;
     border-color: black;
     margin-right: 30px;
@@ -50,7 +51,6 @@ h3 {
 h4 {
     font-size: 15px;
     margin-bottom: 10px;
-    margin-left: 850px;
 }
 
 address a {
@@ -69,8 +69,7 @@ footer {
 #titulo2 {
     color: black;
     border: none; 
-    background-color: transparent; 
-    text-decoration: underline; 
+    text-decoration: underline;
 }
 
 #my_input {
