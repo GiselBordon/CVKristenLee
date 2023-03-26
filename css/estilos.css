@@ -8,8 +8,8 @@
 }
 
 h1 {
-    font-size: 25px;
-    color: black;
+    font-size: 40px;
+    color: #ab1b68;
     background-color: transparent;
     margin-top: 0px;
     margin-bottom: 10px;
@@ -23,9 +23,10 @@ header {
 h2 {
     background-color: transparent;
     color: black;
-    border: solid;
+    font-size: 20px;
+    border: 1px solid;
     border-color: black;
-    background-color: #f2e6ff;
+    background-color: #FFCFCC;
 }
 
 img {
@@ -51,10 +52,19 @@ h3 {
 }
 
 p {
+    border: 1px solid;
+    border-color: black;
     font-size: 15px;
     margin-bottom: 0px;
     margin-left: 850px;
     margin-bottom: 0px;
+}
+
+#mi_parrafo2 {
+    font-family: 'Noto Sans', 'sans-serif'; 
+    font-size: 20px;
+    margin-left: 40px;
+    border: none;
 }
 
 address a {
@@ -65,12 +75,15 @@ dt {
     font-weight: 600;
 }
 
-footer {
+footer p {
     margin-top: 120px;
-    font-size: 10px;
+    margin-left: 40px;
+    font-size: 15px;
+    border: none;
 }
 
 #titulo2 {
+    font-size: 25px;
     background-color: transparent;
     color: black;
     border: none; 
@@ -85,14 +98,21 @@ footer {
 
 #ultimoparrafo {
     font-size: 18px;
-    color: #cf6eff;
+    color: #ab1b68;
     font-weight: bold;
     margin-top: 150px;
     margin-left: 40px;
     margin-bottom: 10px;
+    border: none;
 }
 iframe {
-    margin-top: 0%;
+    margin-top: 0px;
     margin-left: 850px;
     margin-right: 0px;
+}
+
+button {
+    border: 1px solid;
+    border-color: black;
+    margin-left: 30px;
 }
