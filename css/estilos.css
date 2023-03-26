@@ -50,10 +50,11 @@ h3 {
     text-decoration: underline;
 }
 
-h4 {
+p {
     font-size: 15px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     margin-left: 850px;
+    margin-bottom: 0px;
 }
 
 address a {
@@ -91,6 +92,7 @@ footer {
     margin-bottom: 10px;
 }
 iframe {
+    margin-top: 0%;
     margin-left: 850px;
     margin-right: 0px;
 }
