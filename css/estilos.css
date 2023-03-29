@@ -5,6 +5,7 @@
     font-size: 18px;
     margin: 20px;
     box-sizing: border-box;
+    text-align: justify;
 }
 
 h1 {
@@ -118,4 +119,8 @@ button {
     border: 1px solid;
     border-color: black;
     margin-left: 30px;
+}
+
+formulario {
+    
 }
