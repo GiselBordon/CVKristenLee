@@ -11,10 +11,3 @@ const test = document.getElementById("titulo2");
 test.addEventListener("mouseover", function (event) {
     event.target.style.color = "#ab1b68";
 }, false); 
-
-/**Botón para enviar formulario */
-
-function enviar_formulario() {
-    let formulario = document.getElementById('formulariounico');
-    formulario.onsubmit();
-}
