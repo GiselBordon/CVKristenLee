@@ -133,7 +133,7 @@ form {
     font-size: 18px;
     margin-left: 40px;
     width: 500px;
-    background-color: #ab1b688a;
+    background-color: #ab1b684f;
     background-image: none;
     padding: 2px;
     border-radius: 10px;
@@ -146,10 +146,9 @@ form {
 
 input {
     padding: 5px;
-    border-color: #6d1243;
-    -webkit-text-fill-color:#6d1243;
     margin-top: 10px;
     width: 400px;
+    border-color: black;
 }
 
 label {
